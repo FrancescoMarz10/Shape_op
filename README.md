@@ -1,2 +1,2 @@
-# shape_op
-project for iOSAcademy, game for "Team building"
+# Shape_op
+Project for iOSAcademy, game for "Team building"
